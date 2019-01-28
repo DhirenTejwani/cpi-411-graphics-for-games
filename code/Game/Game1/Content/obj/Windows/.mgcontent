@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dhire/source/repos/Game/Game1/Content/SimplestShader.fx</File>
+    <File>C:/Users/dhire/source/repos/Game/Game1/Content/logo_mg.jpg</File>
+    <File>C:/Users/dhire/source/repos/Game/Game1/Content/Simple3D.fx</File>
+  </SourceFiles>
+</SourceFileCollection>
