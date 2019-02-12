@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dptejwan/source/repos/Game/Lab04/Content/SimpleShading.fx</SourceFile>
+  <SourceTime>2019-02-01T18:49:29-07:00</SourceTime>
+  <DestFile>C:/Users/dptejwan/source/repos/Game/Lab04/Content/bin/Windows/SimpleShading.xnb</DestFile>
+  <DestTime>2019-02-08T13:34:18.9863589-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -118,8 +118,8 @@ namespace Lab03
             //}
             if (Mouse.GetState().LeftButton == ButtonState.Pressed && previousMouseState.LeftButton == ButtonState.Pressed)
             {
-                float offsetx = 0.1f*(Mouse.GetState().X - previousMouseState.X);
-                float offsety = 0.1f*(Mouse.GetState().Y - previousMouseState.Y);
+                float offsetx = 0.01f*(Mouse.GetState().X - previousMouseState.X);
+                float offsety = 0.01f*(Mouse.GetState().Y - previousMouseState.Y);
                 angle += offsetx;
                 angle2 += offsety;
             }

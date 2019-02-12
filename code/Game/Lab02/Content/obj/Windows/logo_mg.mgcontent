@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>C:/Users/dhire/source/repos/Game/Lab02/Content/logo_mg.jpg</SourceFile>
-  <SourceTime>2019-01-12T01:09:52.8525551-07:00</SourceTime>
+  <SourceTime>2019-01-12T01:09:52-07:00</SourceTime>
   <DestFile>C:/Users/dhire/source/repos/Game/Lab02/Content/bin/Windows/logo_mg.xnb</DestFile>
-  <DestTime>2019-01-17T10:50:57.2374531-07:00</DestTime>
+  <DestTime>2019-02-08T21:20:57.6249402-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

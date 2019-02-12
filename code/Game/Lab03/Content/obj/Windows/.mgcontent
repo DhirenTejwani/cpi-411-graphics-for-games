@@ -4,7 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/dhire/source/repos/Game/Lab03/Content/bunny.FBX</File>
-    <File>C:/Users/dhire/source/repos/Game/Lab03/Content/Diffuse.fx</File>
+    <File>C:/Users/dptejwan/source/repos/Game/Lab03/Content/bunny.FBX</File>
+    <File>C:/Users/dptejwan/source/repos/Game/Lab03/Content/Diffuse.fx</File>
   </SourceFiles>
 </SourceFileCollection>
