@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/art.PNG</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/BumpTest.png</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/crossHatch.png</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/monkey.png</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/nm.dds</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/round.png</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/saint.png</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/science.PNG</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/NormalMaps/square.png</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/BumpMap.fx</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/Plane.FBX</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/Teapot.FBX</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/Box.FBX</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/Sphere.FBX</File>
+    <File>C:/Users/dhire/source/repos/Game/Lab07/Content/Torus.FBX</File>
+  </SourceFiles>
+</SourceFileCollection>
